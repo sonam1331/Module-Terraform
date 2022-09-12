@@ -1,0 +1,1 @@
+ins_name = "My-new-module"
